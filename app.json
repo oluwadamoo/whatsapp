@@ -4,11 +4,11 @@
     "slug": "whatsup",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/w_icon.png",
+    "icon": "./assets/w_icon_r.png",
     "splash": {
-      "image": "./assets/w_icon.png",
+      "image": "./assets/logo.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#21bfa7"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -21,9 +21,10 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/w_icon.png",
+        "foregroundImage": "./assets/w_icon_r.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.oluwadamoo.whatsup"
     },
     "web": {
       "favicon": "./assets/favicon.png"

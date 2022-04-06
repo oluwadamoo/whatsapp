@@ -47,7 +47,7 @@ const palette = {
   tealGreen: "#128c7e",
   tealGreenDark: "#075e54",
   green: "#25d366",
-  lime: "#dcf8c6",
+  lime: "#c6f2a4",
   skyblue: "#34b7f1",
   smokeWhite: "#ece5dd",
   white: "white",
